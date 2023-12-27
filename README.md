@@ -9,5 +9,5 @@ I'm currently learning how to better design websites, and what technolgies can b
 
 <h3>Connect with me</h3>
 <a href="https://www.linkedin.com/in/levi-tyler-54a4911b6/" title="LinkedIn">
-  <img src="https://www.flaticon.com/free-icons/linkedin" alt="Linked In Icon"
+  <img src="https://www.flaticon.com/free-icons/linkedin" alt="Linked In"
 </a>
